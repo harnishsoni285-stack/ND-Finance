@@ -1,0 +1,17 @@
+{
+  "name": "nd-finance",
+  "version": "1.0.0",
+  "description": "ND Finance - Loan & Financial Data Management Web Application",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "dotnet run --project ./NDFinanceBackend/NDFinanceBackend.csproj"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
